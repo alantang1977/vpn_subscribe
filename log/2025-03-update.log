@@ -10,3 +10,4 @@
 [2025-03-18 08:25:57] [WARN] 获取 v2ray 订阅失败：https://fs.v2rayse.com/share/20250318/dy9ryjuwwp.txt - 500
 [2025-03-18 08:25:57] [WARN] 获取 clash 订阅失败：https://fs.v2rayse.com/share/20250318/0o0rw58l7c.yaml - 500
 [2025-03-18 08:25:57] [WARN] 未能获取新的更新内容
+[2025-03-18 20:09:58] [INFO] 更新成功：['v2ray: 200', 'clash: 200']
